@@ -205,7 +205,7 @@ Publish the website in the given URL.
     text-align: center;
     color:#320C0E;
     font-weight: bold;
-    font-size: larger;">Paint Application Program, Developed by shaik sameer.</p>
+    font-size: larger;">Paint Application Program, Developed by jagan a</p>
   </body>
 </html>
 --include your code--
